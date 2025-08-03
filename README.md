@@ -1,6 +1,6 @@
 # Gas or Pass
 
- Search up a artist and add an album to the discussion! Write down your opinions on every song and upvote thoughfull and intriquing posts. Upvote your favorite songs and comments and enjoy the community.
+Search up a artist and add an album to create a discussion! Write down your opinions on every song and upvote thoughtful and intriguing posts. Upvote your favorite songs and comments and enjoy the community.
 
 ## Setup
 
